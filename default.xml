@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="origin"
+           fetch="https://git@github.com"/> 
+
+  <default revision="master"
+           remote="origin" />
+
+  <project path="dir_a"
+           name="Gan0803/repo-test-a"/>
+  <project path="dir_b"
+           name="Gan0803/repo-test-b"/>
+  <project path="dir_b/dir_c"
+           name="Gan0803/repo-test-c"/>
+</manifest>
+
